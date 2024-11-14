@@ -1,9 +1,10 @@
 // CSS: # -> identificador; . -> class
+//hecho por sebastian el parcero
 let tagBody = document.getElementsByTagName("tagBody");
 
 let tagMain = document.getElementsByTag("tagMain");
 
-let tagUl = document.getElementsByTagName("tagUl");
+let tagUl = document.getElementsByTagName("tagUl"); 
 
 let tagOl = document.getElementsByTagName("tagOl");
 
