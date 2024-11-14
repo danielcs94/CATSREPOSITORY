@@ -34,6 +34,9 @@ function gameOfThronesPresentation (nombre, apellido, edad) {
 
 age += 6;
 console.log(`Soy ${nombre} ${apellido} y tengo ${edad} años.`);
+// esto es un comentario 
+
+
 
 age -= 6;
 
