@@ -2,7 +2,7 @@
 //hecho por sebastian el parcero
 let tagBody = document.getElementsByTagName("tagBody");
 
-let tagMain = document.getElementsByTag("tagMain");
+let tagMain = document.getElementsByTagName("tagMain");
 
 let tagUl = document.getElementsByTagName("tagUl"); 
 
