@@ -16,7 +16,7 @@ let thunder = document.getElementsByClassName("thunder");
 
 let a = document.getElementsByTagName("tagA");
 
-console.log("Body: ", body);
+console.log("Body: ", tagBody);
 
 console.log("MainHeader: ", mainHeader);
 
